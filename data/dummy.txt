@@ -1,0 +1,10 @@
+This is now the first line
+
+The Department of Computer Science features courses that have an integral laboratory component — nearly all of the courses include a weekly formal laboratory session to provide for practice and experimentation using the scientific principles learned in the classroom and from study of the course texts. The laboratory component affords the opportunity for hands-on experience with a wide-variety of computer hardware and software systems (e.g., integrated development environments, version control systems, semi-autonomous robots, and mobile devices). The Department of Computer Science has laboratories adjacent to faculty offices and classrooms in Alden Hall, including an advanced-technology computer science classroom that facilitates active learning; a software development laboratory designed for the team-based development of large software systems; and a laboratory for advanced coursework and research.
+This is now the last line
+This is now the last line
+This is now the last line
+This is now the last line
+This is now the last line
+This is now the last line
+This is now the last line
